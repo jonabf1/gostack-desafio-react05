@@ -12,10 +12,6 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-05?color=%2304D361">
 </p>
 
-<p align="center">
-  <a href="#rocket-1.-captando-erros">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 ## :rocket: Sobre o desafio
 
 Aplicar conhecimentos adquiridos sobre React até o momento
@@ -44,4 +40,4 @@ A aplicação criada no bootcamp tem o limite de 5(ou mais) Issues por pagina, e
 
 ---
 
-Feito com ♥ by <a href="www.google.com">Jonathan</a>
+Feito com ♥ by :wave: [Jonathan!](https://www.linkedin.com/in/jonathan-barros-franco)
