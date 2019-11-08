@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-1.-captando-erros">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :rocket: Sobre o desafio
@@ -22,7 +22,7 @@ Aplicar conhecimentos adquiridos sobre React até o momento
 
 ### Funcionalidades
 
-#### 1. Captando erros
+#### :rocket: 1. Captando erros
 
 Adicionar um `try/catch` por volta do código presente na função `handleSubmit` presente no componente `Main` e caso um repositório não seja encontrado na API do Github adicione uma borda vermelha por volta do input em que o usuário digitou o nome do repositório.
 
