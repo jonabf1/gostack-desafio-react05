@@ -40,4 +40,4 @@ A aplicação criada no bootcamp tem o limite de 5(ou mais) Issues por pagina, e
 
 ---
 
-Feito com ♥ by :wave: [Jonathan!](https://www.linkedin.com/in/jonathan-barros-franco)
+Feito com ♥ by [Jonathan](https://www.linkedin.com/in/jonathan-barros-franco)
