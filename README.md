@@ -13,6 +13,10 @@
 
 Aplicar conhecimentos adquiridos sobre React até o momento
 
+### Como instalar
+- yarn install (instalar dependências)
+- yarn start(iniciar o servidor e abrir a aplicação automaticamente)
+
 ### Funcionalidades
 
 #### :rocket: 1. Captando erros
