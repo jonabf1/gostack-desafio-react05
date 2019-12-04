@@ -31,10 +31,10 @@ A aplicação criada no bootcamp tem o limite de 5(ou mais) Issues por pagina, e
 #### :rocket: 4. Resultado final
 
 <p align="center>
-<img alt="gif" src="/src/assets/repository.gif"/>
+<img alt="gif" src="src/assets/repository.gif"/>
 </p>
 
-</hr>
+<hr/>
 
 <p align="center">
 Feito com ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
