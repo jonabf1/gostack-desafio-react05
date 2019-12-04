@@ -1,23 +1,16 @@
-# gostack-desafio-react05
+<p align="center">
+<img alt="rn" src="https://rocketseat.com.br/static/images/update/curso-reactjs.svg" width="200px"/>
+</p>
 
-<h1 align="center">
-    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
-      <img alt="rn" src="https://miro.medium.com/max/1200/1*KANHihva9OdXx2-V5EDn3g.png" width="200px"/>
-</h1>
-
-<h3 align="center">
-  Desafio 5: Primeiro projeto com ReactJS
-</h3>
-
-## :rocket: Sobre o desafio
+## Sobre
 
 Aplicar conhecimentos adquiridos sobre React até o momento
 
-### Como instalar
+### :rocket: Como instalar
 - yarn install (instalar dependências)
 - yarn start(iniciar o servidor e abrir a aplicação automaticamente)
 
-### Funcionalidades
+### :rocket: Funcionalidades
 
 #### :rocket: 1. Captando erros
 
@@ -35,10 +28,15 @@ Adicionar filtro de listagem de issue, com base no State('open','all' ou 'closed
 
 A aplicação criada no bootcamp tem o limite de 5(ou mais) Issues por pagina, então será necessario adicionar paginação para mostrar as Issues restantes
 
-#### 4. Resultado final
+#### :rocket: 4. Resultado final
 
-![Alt Text](src/assets/repository.gif)
+<p align="center>
+<img alt="rn" src="src/assets/repository.gif" width="200px"/>
+</p>
 
----
+</hr>
 
-Feito com ♥ by [Jonathan](https://www.linkedin.com/in/jonathan-barros-franco)
+<p align="center">
+Feito com ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
+</p>
+
