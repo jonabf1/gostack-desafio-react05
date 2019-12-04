@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="rn" src="https://rocketseat.com.br/static/images/update/curso-reactjs.svg" width="200px"/>
+<img alt="rn" src="https://rocketseat.com.br/static/images/update/curso-reactjs.svg" width="120px"/>
 </p>
 
 ## Sobre
@@ -31,7 +31,7 @@ A aplicação criada no bootcamp tem o limite de 5(ou mais) Issues por pagina, e
 #### :rocket: 4. Resultado final
 
 <p align="center>
-<img  src="src/assets/repository.gif"/>
+<img src="src/assets/repository.gif"/>
 </p>
 
 </hr>
