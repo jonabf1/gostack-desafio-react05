@@ -2,7 +2,7 @@
 <img alt="rn" src="https://rocketseat.com.br/static/images/update/curso-reactjs.svg" width="120px"/>
 </p>
 
-## Sobre
+### :rocket: Sobre
 
 Aplicar conhecimentos adquiridos sobre React até o momento
 
