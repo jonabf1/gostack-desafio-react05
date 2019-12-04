@@ -12,7 +12,7 @@ Aplicar conhecimentos adquiridos sobre React até o momento
 
 ### :rocket: Funcionalidades
 
-#### :rocket: 1. Captando erros
+#### 1. Captando erros
 
 Adicionar um `try/catch` por volta do código presente na função `handleSubmit` presente no componente `Main` e caso um repositório não seja encontrado na API do Github adicione uma borda vermelha por volta do input em que o usuário digitou o nome do repositório.
 
@@ -31,7 +31,7 @@ A aplicação criada no bootcamp tem o limite de 5(ou mais) Issues por pagina, e
 #### :rocket: 4. Resultado final
 
 <p align="center>
-<img alt="rn" src="src/assets/repository.gif" width="200px"/>
+<img  src="src/assets/repository.gif"/>
 </p>
 
 </hr>
