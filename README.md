@@ -13,7 +13,7 @@ Apply knowledge gained so far about React
 - yarn install (install all dependencies)
 - yarn start(start app web)
 
-## Frontend of this application
+## Mobile of this application
 - https://github.com/jonabf1/gostack-desafio-reactnative06
 
 ### :rocket: Functionalities
@@ -22,7 +22,7 @@ Apply knowledge gained so far about React
 
 Add a `try / catch` around the code present in the` handleSubmit` function present in the `Main` component and if a repository is not found in the Github API add a red border around the input where the user entered the name of the repository
 
-#### 2. Duplicate repository
+#### 2. Duplicated repository
 
 Treat duplicate directories with internal error message
 
@@ -42,6 +42,6 @@ The application created at bootcamp has a limit of 5 (or more) Issues per page, 
 
 <hr/>
 
+<p align="center">
 Made with ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
 </p>
-
