@@ -4,33 +4,37 @@
 
 <h1 align="center">ReactJS</h1>
 
-### :rocket: Sobre
+### :rocket: About
 
-Aplicar conhecimentos adquiridos sobre React até o momento
+Apply knowledge gained so far about React 
 
-### :rocket: Como instalar
-- yarn install (instalar dependências)
-- yarn start(iniciar o servidor e abrir a aplicação automaticamente)
+### :rocket: How install
 
-### :rocket: Funcionalidades
+- yarn install (install all dependencies)
+- yarn start(start app web)
 
-#### 1. Captando erros
+## Frontend of this application
+- https://github.com/jonabf1/gostack-desafio-reactnative06
 
-Adicionar um `try/catch` por volta do código presente na função `handleSubmit` presente no componente `Main` e caso um repositório não seja encontrado na API do Github adicione uma borda vermelha por volta do input em que o usuário digitou o nome do repositório.
+### :rocket: Functionalities
 
-#### 2. Repositório duplicado
+#### 1. Catching errors
 
-Tratar os diretórios duplicados com mensagem de erro interna
+Add a `try / catch` around the code present in the` handleSubmit` function present in the `Main` component and if a repository is not found in the Github API add a red border around the input where the user entered the name of the repository
 
-#### 3. Filtro de estado
+#### 2. Duplicate repository
 
-Adicionar filtro de listagem de issue, com base no State('open','all' ou 'closed') para listagem das Issues.
+Treat duplicate directories with internal error message
 
-#### 4. Paginação
+#### 3. State filter
 
-A aplicação criada no bootcamp tem o limite de 5(ou mais) Issues por pagina, então será necessario adicionar paginação para mostrar as Issues restantes
+Add State-based issue listing filter ('open', 'all' or 'closed') to Issue listing
 
-#### :rocket: 4. Resultado final
+#### 4. Pagination
+
+The application created at bootcamp has a limit of 5 (or more) Issues per page, so you will need to add pagination to show the remaining Issues.
+
+#### :rocket: 4. Final result
 
 <p align="center">
 <img src="src/assets/repository.gif" alt="gif"/>
@@ -38,7 +42,6 @@ A aplicação criada no bootcamp tem o limite de 5(ou mais) Issues por pagina, e
 
 <hr/>
 
-<p align="center">
-Feito com ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
+Made with ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
 </p>
 
